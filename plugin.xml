@@ -34,7 +34,8 @@ under the License.
 
     <platform name="android">
         <framework src="com.squareup.okhttp:okhttp-urlconnection:2+" />
-        <config-file parent="/*">
+        <source-file src="OkHttpPlugin.java" target-dir="src/com/google/cordova" />
+        <config-file target="config.xml" parent="/*">
             <feature name="OkHttpPlugin">
                 <param name="android-package" value="com.google.cordova.OkHttpPlugin" />
                 <param name="onload" value="true" />
