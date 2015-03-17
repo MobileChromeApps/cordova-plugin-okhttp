@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-okhttp",
-  "version": "2.0.0",
+  "version": "2.0.1-dev",
   "description": "Uses OkHttp for network requests initiated from Java (e.g. via FileTransfer plugin).",
   "cordova": {
     "id": "cordova-plugin-okhttp",

@@ -20,7 +20,7 @@ under the License.
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     id="cordova-plugin-okhttp"
-    version="2.0.0">
+    version="2.0.0-dev">
     <name>OkHttp</name>
     <description>Uses OkHttp for network requests initiated from Java (e.g. via FileTransfer plugin).</description>
     <license>Apache 2.0</license>
